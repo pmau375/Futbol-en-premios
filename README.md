@@ -20,6 +20,7 @@ Una aplicación web interactiva desarrollada con **React** y **Vite**, pensada p
 Si quieres ejecutar este proyecto de forma local en tu computadora, sigue estos pasos:
 
 ### 1. Clonar el repositorio
+
 ```bash
 git clone [https://github.com/TU_USUARIO/TU_REPOSITORIO.git](https://github.com/TU_USUARIO/TU_REPOSITORIO.git)
 cd TU_REPOSITORIO
