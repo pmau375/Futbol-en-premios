@@ -16,26 +16,34 @@ Una aplicación web interactiva desarrollada con **React** y **Vite**, pensada p
 - **Estilos:** CSS3 / HTML5
 - **Despliegue:** [Vercel](https://vercel.com/)
 
-
 Si quieres ejecutar este proyecto de forma local en tu computadora, sigue estos pasos:
 
 ### 1. Clonar el repositorio
 
 ```bash
-git clone [https://github.com/TU_USUARIO/TU_REPOSITORIO.git](https://github.com/TU_USUARIO/TU_REPOSITORIO.git)
+
+git clone https://github.com/TU_USUARIO/TU_REPOSITORIO.git
 cd TU_REPOSITORIO
 
+```
+
 2. Instalar dependencias
-Bash
+
+```Bash
 
 npm install
 
+```
+
 3. Iniciar el servidor de desarrollo
-Bash
+
+```Bash
 
 npm run dev
 
 Abre tu navegador e ingresa a http://localhost:5173/ para ver la aplicación en ejecución.
+
+```
 
 ### Recomendaciones adicionales:
 1. Reemplaza "TU_USUARIO" y "TU_REPOSITORIO" con tu usuario y nombre de repo en GitHub.
